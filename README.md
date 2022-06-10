@@ -1,7 +1,7 @@
 # luigi-openidconnect-react
 An example application configuring a luigi web app with OpenID connect
 
-## SETUP LUIGI WITH OPENID-CONNECT
+## SETUP LUIGI WITH OPENID-CONNECT AND REACT
 
 ## First run the OpenID server mock
 
